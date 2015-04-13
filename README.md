@@ -1,2 +1,1 @@
-# Test
-Testing GitHub
+This is repository just for test :)
